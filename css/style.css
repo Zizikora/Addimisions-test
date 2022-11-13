@@ -60,4 +60,22 @@
     padding-top: 18px;
 }
 
+.icon{
+    float: left;
+    margin-bottom: 200px;
+}
 
+.p{
+    color: black;
+    font-size: large;
+    font-style: normal;
+}
+
+.order{
+    color: red;
+}
+
+.order2{
+    color: black;
+    margin-right: 0px;
+}
