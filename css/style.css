@@ -127,3 +127,176 @@ background-color: rgb(255, 255, 255);
 .p-text{
     color: black;
 }
+
+.Applying {
+    margin-right: 100px;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 22px;
+    color: black;
+    background-color: white;
+}
+
+
+
+.body{
+    background-color: rgb(249, 247, 247);
+}
+
+.cards{
+    background-color: white;
+   display: flex; 
+   justify-content:space-between;
+   padding-left: 10px;
+   height: 400px;
+   margin: 50px;
+}
+
+.card{
+    flex: 0 0 350px;
+    background-image: url(/Pictures/image_1.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 100%;
+    cursor: pointer;
+}
+
+.card:hover{
+background-color: none;
+}
+
+.card1{
+    background: rgba(255, 234, 130, 0.82);
+    overflow: hidden;
+    height: 100%;
+    z-index: 2;
+}
+
+.card2{
+    flex: 0 0 350px;
+    background-image: url(/Pictures/image_5.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 100%;
+    cursor: pointer;
+}
+
+.card3{
+    flex: 0 0 350px;
+    background-image: url(/Pictures/image_6.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 100%;
+    cursor: pointer;
+}
+
+.card4{
+    flex: 0 0 350px;
+    background-image: url(/Pictures/image_7.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 100%;
+    cursor: pointer;
+}
+
+.card5{
+    flex: 0 0 350px;
+    background-image: url(/Pictures/image_8.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 100%;
+    cursor: pointer;
+}
+
+.card6{
+    flex: 0 0 350px;
+    background-image: url(/Pictures/image_9.jpg);
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 100%;
+    cursor: pointer;
+}
+
+.text{
+ color: black;
+ padding-top: 20px;
+ text-align: center;
+}
+
+.p-text2{
+    height: 240px;
+    background-color: rgba(247, 247, 247, 1);
+    text-align: center;
+    color: black;
+    width: 90%;
+    margin: 56px;
+}
+
+.link{
+    color: blue;
+}
+
+.h3{
+ margin-right: 270px;
+}
+
+.box2{
+    background-color:rgba(255, 204, 0, 1) ;
+    width: 100%;
+    height: 100px;
+}
+
+.bottom-img{
+    width: 100%;
+}
+
+
+.bottom-box{
+    display: block;
+    height: 500px;
+    
+}
+
+.box-header{
+width:100%; 
+height: 600px;
+background-color:black;
+margin-top: 100px;
+}
+
+.h2-text{
+    height: 240px;
+background-color: black;
+    text-align: left;
+    color: white;
+    width: 90%;
+    margin: 56px;
+    padding-top: 35px;
+}
+
+.link2{
+    color: white;
+}
+
+.h2-text2{
+    height: 240px;
+    text-align: left;
+    color: white;
+    width: 90%;
+    margin: 56px;
+    padding-top: 35px;
+    margin: 100px;
+
+}
+
+.bottom-box2{
+  display: block;
+  height:500px;
+  color: white;
+}
+
+.box-header2{
+    background-color: black;
+    margin-bottom: 4590px;
+}
+
