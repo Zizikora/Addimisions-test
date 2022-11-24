@@ -253,7 +253,8 @@ background-color: none;
 
 .bottom-box{
     display: flex;
-    height: 700px;
+    height: 1020px;
+    background-color: black;
     overflow: hidden;
     justify-content: space-between;
     width: 100%;
@@ -328,3 +329,26 @@ background-color: black;
         padding-top: 35px;
         margin-left: 67px;
     } 
+
+    .bottom-box4{
+        display: block;
+        height:500px;
+        color: white;
+    }
+
+    .box-header4{
+        width:150%; 
+        height: 600px;
+        background-color:black;
+        margin-top: 100px; 
+    }
+
+    .h2-text4{
+        height: 240px;
+        background-color: black;
+            text-align: left;
+            color: white;
+            width: 90%;
+            padding-top:567px;
+            margin-right: 235px; 
+    }
