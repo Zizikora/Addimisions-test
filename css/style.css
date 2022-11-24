@@ -316,39 +316,46 @@ background-color: black;
 .box-header3{
     width:100%; 
     height: 600px;
-    background-color:black;
     margin-top: 100px;
     }
 
     .h2-text3{
         height: 240px;
-    background-color: black;
-        text-align: left;
+       text-align: left;
         color: white;
         width: 90%;
         padding-top: 35px;
         margin-left: 67px;
     } 
 
-    .bottom-box4{
-        display: block;
-        height:500px;
-        color: white;
-    }
 
-    .box-header4{
-        width:150%; 
-        height: 600px;
-        background-color:black;
-        margin-top: 100px; 
-    }
+    .h2-text2{
+    height: 240px;
+    text-align: left;
+    color: white;
+    width: 90%;
+    margin: 56px;
+    padding-top: 35px;
+    margin: 100px;
+    margin-left:21px;
 
-    .h2-text4{
-        height: 240px;
-        background-color: black;
-            text-align: left;
-            color: white;
-            width: 90%;
-            padding-top:567px;
-            margin-right: 235px; 
-    }
+}
+
+.fa-facebook-square {
+    color: #ffffff;
+    background-image: linear-gradient( to bottom, transparent 20%, rgb(0, 0, 0) 20%, rgb(0, 0, 0) 93%, transparent 93% );
+    background-size: 89%;
+    background-position: 70% 0;
+    background-repeat: no-repeat;
+    background-color:black;
+  }
+
+  
+.fa-twitter-square {
+    color: #ffffff;
+    background-image: linear-gradient( to bottom, transparent 20%, rgb(0, 0, 0) 20%, rgb(0, 0, 0) 93%, transparent 93% );
+    background-size: 89%;
+    background-position: 70% 0;
+    background-repeat: no-repeat;
+    background-color:black;
+  }
